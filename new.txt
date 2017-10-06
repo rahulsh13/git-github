@@ -3,5 +3,9 @@ there
 new edit
 
 master edit
+<<<<<<< HEAD
+=======
+
+>>>>>>> firstbranch changes commit
 firstbranch edit
 
