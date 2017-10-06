@@ -1,8 +1,7 @@
 Hello
 there
 new edit
-<<<<<<< HEAD
+
 master edit
-=======
 firstbranch edit
->>>>>>> firstbranch
+
