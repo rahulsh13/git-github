@@ -4,8 +4,12 @@ new edit
 
 master edit
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> firstbranch changes commit
+=======
+
+>>>>>>> firstbranch
 firstbranch edit
 
